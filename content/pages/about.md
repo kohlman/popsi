@@ -1,4 +1,4 @@
-Title: About
+Title: Who we are
 Date: 2018-10-05 15:22
 Slug: about
 Category: Internals

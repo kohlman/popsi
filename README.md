@@ -1,2 +1,4 @@
 # popsi
-Frankfurt Psychology Department Open Science Initiative
+Website of the Frankfurt Psychology Department Open Science Initiative
+
+Created with Pelican

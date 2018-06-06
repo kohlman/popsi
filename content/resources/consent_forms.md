@@ -28,6 +28,9 @@ Inspired by the [Ultimate Consent Forms](https://open-brain-consent.readthedocs.
 we have developed a general consent form hopefully sufficient to cover most investigations relevant to
 conducting psychological and neurocognitive experiments.
 
+You can download the form 
+[here](https://www.dropbox.com/s/chapn9ss0wpz6qt/Probandeninformation_Flexstudie_Teil2.pdf?dl=0).
+
 ## Appropriate Formats
 
 A [guide for sharing data](https://github.com/jtleek/datasharing) by Jeff Leek's group
