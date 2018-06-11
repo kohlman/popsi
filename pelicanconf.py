@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Jona Sassenhagen'
-SITENAME = "POPSI"#'F<br>O<br>P<br>S<br>I<br><br>4<br>E<br>V<br>A'
-SITEURL = ''
+SITENAME = "Frankfurt Open Science Initiative"#"POPSI"#'F<br>O<br>P<br>S<br>I<br><br>4<br>E<br>V<br>A'
+SITEURL = 'https://jona-sassenhagen.github.io/popsi/'
 
 PATH = 'content'
 
@@ -36,9 +36,9 @@ LINKS = (
 #    'width': 100,
 #}
 
-BANNER = 'images/banner.jpg'
+BANNER = 'images/goethe.png'
 HEADER_COVER = "../content/images/banner.png"
-LACES_BANNER = {"file": 'content/images/banner.jpg',
+LACES_BANNER = {"file": 'content/images/goethe.png',
 "subtitle": "",
 "all_pages": True
 }
@@ -80,5 +80,10 @@ DISPLAY_SEARCH_FORM = True
 
 TYPOGRIFY = True
 
-STATIC_PATHS = ["resources", "images"]
+STATIC_PATHS = ["Resources", "images"]
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.tables':{},
+    }
+}
