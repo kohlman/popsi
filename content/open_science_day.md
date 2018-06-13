@@ -7,34 +7,28 @@ Slug: os-day
 Authors: Jona Sassenhagen
 Summary: Open Science Day Einladung
 
-|Wann?        | Was?                                             |
-|------------ | -------------------------------------------------|
-|12:00 (s.t.) | **Vortrag**:                                     |
-|             | *Die Glaubwürdigkeitskrise in der Wissenschaft:* |
-|             | *Open Science als Antwort.* PD Dr. Felix.        |
-|             | Schönbrodt (Institut für Psychologie &           |
-|             | Open Science Center, LMU München)                |
-|             |                                                  |
-|13:30        | **Open Science-Café**: Informationen und         |
-|             | Diskussionen über Fragen und Tools für           |
-|             | Offene Wissenschaft; Snacks und Getränke         |
-|             |                                                  |
-|15:00        | **Podiumsdiskussion**:                           |
-|             | PD Dr. Felix Schönbrodt                          |
-|             | (Institut für Psychologie & Open Science         |
-|             | Center, LMU München)                             |
-|             | Prof. Dr. Yee Lee Shing                          |
-|             | (Entwicklungspsychologie,                        |
-|             | Goethe Universität Frankfurt)                    |
-|             | Prof. Dr. Dieter Zapf                            |
-|             | (Arbeits- und Organisationspsychologie,          |
-|             | Goethe Universität Frankfurt)                    |
-|             | Prof. Dr. Mareike Kunter                         |
-|             | (Pädagogische Psychologie,                       |
-|             | Goethe Universität Frankfurt)                    |
-|             |                                                  |
-|Im Anschluß  | Public Viewing des                               |
-|             | Fußball-WM-Spiels                                |
+|Wann?        | Was?                                                                        |
+|------------ | ----------------------------------------------------------------------------|
+|12:00 (s.t.) | **Vortrag**:                                                                |
+|             | *Die Glaubwürdigkeitskrise in der Wissenschaft: Open Science als Antwort.*  |
+|             | PD Dr. Felix Schönbrodt                                                     |
+|             | (Institut für Psychologie & Open Science Center, LMU München)               |
+|             |                                                                             |
+|13:30        | **Open Science-Café**:                                                      |
+|             | Informationen und Diskussionen über Fragen und Tools für Offene Wissenschaft|
+|             | (Snacks und Getränke)                                                       |
+|             |                                                                             |
+|15:00        | **Podiumsdiskussion**:                                                      |
+|             | PD Dr. Felix Schönbrodt                                                     |
+|             | (Institut für Psychologie & Open Science Center, LMU München)               |
+|             | Prof. Dr. Yee Lee Shing                                                     |
+|             | (Entwicklungspsychologie, Goethe Universität Frankfurt)                     |
+|             | Prof. Dr. Dieter Zapf                                                       |
+|             | (Arbeits- und Organisationspsychologie, Goethe Universität Frankfurt)       |
+|             | Prof. Dr. Mareike Kunter                                                    |
+|             | (Pädagogische Psychologie, Goethe Universität Frankfurt)                    |
+|             |                                                                             |
+|Im Anschluß  | Public Viewing des Fußball-WM-Spiels                                        |
 
 
 Die Veranstaltungen finden statt im [Renate von Metzler-Saal](https://www.uni-frankfurt.de/67161096/renate-von-metzler-saal)
