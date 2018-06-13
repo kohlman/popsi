@@ -7,38 +7,40 @@ Slug: os-day
 Authors: Jona Sassenhagen
 Summary: Open Science Day Einladung
 
-|Wann?        | Was?                                       | Wo?                   |
-|------------ | ------------------------------------------ | ----------------------|
-|12:00 (s.t.) | *Vortrag*: Die Glaubwürdigkeitskrise in der| Renate von Metzler    |
-|             | Wissenschaft: Open Science als Antwort     | Saal                  |
-|             | PD Dr. Felix Schönbrodt                    |                       |
-|             | (Institut für Psychologie & Open Science   |                       |  
-|             | Center, LMU München)                       |                       |
-|             |                                            |                       |
-|13:30        | *Open Science-Café*: Informationen und     | Renate von Metzler    |
-|             | Diskussionen über Fragen und Tools für     | Saal                  |
-|             | Offene Wissenschaft; Snacks und Getränke   |                       |
-|             |                                            |                       |
-|15:00        | *Podiumsdiskussion*                        | Renate von Metzler    |
-|             | PD Dr. Felix Schönbrodt                    | Saal                  |
-|             | (Institut für Psychologie & Open Science   |                       |  
-|             | Center, LMU München)                       |                       |
-|             | Prof. Dr. Yee Lee Shing                    |                       |
-|             | (Entwicklungspsychologie,                  |                       |
-|             | Goethe Universität Frankfurt)              |                       |
-|             | Prof. Dr. Dieter Zapf                      |                       |
-|             | (Arbeits- und Organisationspsychologie,    |                       |
-|             | Goethe Universität Frankfurt)              |                       |
-|             | Prof. Dr. Mareike Kunter                   |                       |
-|             | (Pädagogische Psychologie,                 |                       |
-|             | Goethe Universität Frankfurt)              |                       |
-|             |                                            |                       |
-|Im Anschluß  | Public Viewing des                         | Renate von Metzler    |
-|             | Fußball-WM-Spiels                          | Saal                  |
+|Wann?        | Was?                                       |
+|------------ | ------------------------------------------ |
+|12:00 (s.t.) | **Vortrag**: *Die Glaubwürdigkeitskrise in |
+|             |  der Wissenschaft: Open Science als        |
+|             | Antwort.* PD Dr. Felix Schönbrodt          |
+|             | (Institut für Psychologie & Open Science   |
+|             | Center, LMU München)                       |
+|             |                                            |
+|13:30        | **Open Science-Café**: Informationen und   |
+|             | Diskussionen über Fragen und Tools für     |
+|             | Offene Wissenschaft; Snacks und Getränke   |
+|             |                                            |
+|15:00        | **Podiumsdiskussion**:                     |
+|             | PD Dr. Felix Schönbrodt                    |
+|             | (Institut für Psychologie & Open Science   |
+|             | Center, LMU München)                       |
+|             | Prof. Dr. Yee Lee Shing                    |
+|             | (Entwicklungspsychologie,                  |
+|             | Goethe Universität Frankfurt)              |
+|             | Prof. Dr. Dieter Zapf                      |
+|             | (Arbeits- und Organisationspsychologie,    |
+|             | Goethe Universität Frankfurt)              |
+|             | Prof. Dr. Mareike Kunter                   |
+|             | (Pädagogische Psychologie,                 |
+|             | Goethe Universität Frankfurt)              |
+|             |                                            |
+|Im Anschluß  | Public Viewing des                         |
+|             | Fußball-WM-Spiels                          |
 
 
+Die Veranstaltungen finden statt im [Renate von Metzler-Saal](https://www.uni-frankfurt.de/67161096/renate-von-metzler-saal)
+im [Casino am Campus Westend](https://www.uni-frankfurt.de/67161071/casino).
 Die Teilnahme am Open Science Day ist kostenlos.
-Zur Planungszwecken bitten wir Sie, sich für die Veranstaltung unverbindlich bis zum 19.06.2018 über das untenstehende Formular an.
+Zur Planungszwecken bitten wir Sie, sich für die Veranstaltung unverbindlich bis zum 19.06.2018 über das untenstehende Formular anzumelden.
 
 
 <iframe 
