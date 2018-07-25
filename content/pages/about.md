@@ -17,5 +17,15 @@ This is the website of the Frankfurt Psychology Open Science Initiative.
 
 Charlotte Dignath
 
+Franziska Baier
+
+Christina Maurer
+
+[Garvin Brod](brod@dipf.de)
+
+[Dejan Draschkow](Draschkow@psych.uni-frankfurt.de)
+
+Katja Knuth-Herzig
+
 # Feedback
-For feedback to the website itself, please write to [Jona Sassenhagen](mailto:jona.sassenhagen@gmail.com)
+For feedback to the website itself, please write to [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
