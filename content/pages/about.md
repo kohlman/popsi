@@ -15,6 +15,8 @@ This is the website of the Frankfurt Psychology Open Science Initiative.
 
 [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
 
+[Garvin Brod](brod@dipf.de)
+
 [Dejan Draschkow](Draschkow@psych.uni-frankfurt.de)
 
 # Feedback
