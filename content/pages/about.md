@@ -15,6 +15,8 @@ This is the website of the Frankfurt Psychology Open Science Initiative.
 
 [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
 
+Charlotte Dignath
+
 Franziska Baier
 
 Christina Maurer
@@ -26,4 +28,4 @@ Christina Maurer
 Katja Knuth-Herzig
 
 # Feedback
-For feedback to the website itself, please write to [Jona Sassenhagen](mailto:jona.sassenhagen@gmail.com)
+For feedback to the website itself, please write to [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
