@@ -14,4 +14,4 @@ materials for an introduction into scientific programming, experimental creation
 reproducible data analysis for psychologists in Python
 - [Protocols for the Frankfurt Open Science Initiative meetings]({filename}/resources/protocols.md)
 - [Posters from the Open Science Day Poster Presentations]({filename}/resources/osd_posters.md)
-
+- Felix Schönbrodt's Talk ["How Open Science Can Solve (Parts Of) The Replication Crisis"](https://osf.io/zf6g4/) from the Open Science Day
