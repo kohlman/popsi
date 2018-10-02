@@ -70,7 +70,7 @@ BOOTSTRAP_THEME = 'Spacelab'
 #THEME = "/Users/jona/tools/pelican-themes/attila"
 #THEME = "/Users/jona/tools/pelican-themes/pelican-bootstrap3"
 #THEME = "laces3"
-THEME = "/Users/jona/tools/pelican-themes/blueidea"
+THEME = "blueidea"
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
