@@ -59,4 +59,5 @@ Questions and comments can be sent to r.mayer@psych.uni-frankfurt.de
 All information about the workshop and the registration can be found here:
 
 <iframe 
-src="https://docs.google.com/forms/d/e/1FAIpQLScvNDDItkPdqAyFycxXZ-NthWQEgcG6R3J6t4M5W0UKMwvSvw/viewform?c=0&w=1">
+src="https://docs.google.com/forms/d/e/1FAIpQLScvNDDItkPdqAyFycxXZ-NthWQEgcG6R3J6t4M5W0UKMwvSvw/viewform?c=0&w=1"
+width="700" height="520" frameborder="0" marginheight="02 marginwidth="0">Loading ...</iframe>

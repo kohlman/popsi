@@ -1,5 +1,5 @@
 Title: Open Science Hangout @ DGPs Congress
-Date: 2018-10-05 15:22
+Date: 2018-05-05 15:22
 Slug: dgpshangout
 Tags: News
 Category: News

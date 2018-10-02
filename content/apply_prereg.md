@@ -20,7 +20,7 @@ Insbesondere durch zunehmende Unterstützung von Seiten wissenschaftlicher Journ
 In diesem eintägigen Workshop werden wir
 1. konzeptuell in die Präregistrierung einführen,
 2. auf praktische Möglichkeiten und Schwierigkeiten vorbereiten,
-3. Unterstützung bei der Vorbereitung eigener Präregistrierung zu leisten.
+3. Unterstützung bei der Vorbereitung eigener Präregistrierung leisten.
 
 Alle Informationen und die Anmeldung zum Workshop finden Sie hier:
 
