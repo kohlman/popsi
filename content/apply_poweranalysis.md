@@ -7,7 +7,7 @@ Slug: apply_poweranalysis
 Authors: Rebecca Mayer
 Summary: Open Science Day Einladung
 
-# Power-Analysis Workshop, with Daniel Laakens
+# Power-Analysis Workshop, with Daniel Lakens
 ## 22<sup>nd</sup> & 23<sup>rd</sup> October 2018
 
 ### Teaching Format
@@ -59,4 +59,4 @@ Questions and comments can be sent to r.mayer@psych.uni-frankfurt.de
 All information about the workshop and the registration can be found here:
 
 <iframe 
-src="https://docs.google.com/forms/d/1JQO2RWBECpsx0cEsEvggvaoWXzMnmi7WPwQGS9GrVdw/edit?edit_requested=true">
+src="https://docs.google.com/forms/d/e/1FAIpQLScvNDDItkPdqAyFycxXZ-NthWQEgcG6R3J6t4M5W0UKMwvSvw/viewform?c=0&w=1">
