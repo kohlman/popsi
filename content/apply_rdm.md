@@ -1,0 +1,64 @@
+Title: Invitation to Workshop on Research Data Management
+Date: 2018-10-23 08:30
+Modified: 2018-10-23 08:45
+Tags: News
+Category: News
+Slug: apply_rdm
+Authors: Axel Kohler
+Summary: Workshop Research Data Management
+
+## 30<sup>th</sup> November, 2018
+
+### Workshop content
+
+The goal of this workshop is to introduce and practice procedures for handling research data in an open and reproducible way. The first part of the workshop, held by **PD Dr. Erich Weichselgartner (ZPID)**, will introduce guiding principles to make data Findable, Accessible, Interoperable, and Reusable (the FAIR principles). It will further deal with what research data management actually means and how it can help to make the research process more efficient. Finally, Dr. Weichselgartner will introduce **DataWiz**, an automated assistant for the management of psychological research data developed by ZPID.
+The second part of the workshop will consist of demonstrations of tools for online data management. **Dr. Annett Wilde (DIPF)** will introduce **REDCap**, a web application for building and managing online surveys and databases. **Dr. Benjamin Gagl (GU)** will talk about **BIDS (Brain Data Imaging Structure)**, a data storage standard for behavioral or brain data, which is the basis for using a growing number of open data processing pipelines (BIDS apps) allowing reproducible data analysis.
+
+At the end of the workshop, participants will have in-depth knowledge of open-science practices in research data management. The following questions will be addressed:
+* What are the FAIR principles?</li>
+* What is a repository? How can I can I use it to save and document my own data?</li>
+* Which repositories are there? What are the main differences?</li>
+* What do I have to consider concerning the anonymization of data?</li>
+* How does PsychData work (ZPID data archive, http://psychdata.zpid.de/)?</li>
+* How do I document my data (and other material) in a self-explaining manner for later reuse?</li>
+* How does DataWiz, the intelligent data-management assistant, support me with my data-management tasks?</li>
+* How can I organize my data-management workflow with REDCap?</li>
+* How does BIDS support the consistent organization of research data?</li>
+
+### Equipment and background
+
+!!!Please bring a laptop for the hands-on parts of the workshop!!!
+In general, no specific computer knowledge is required.
+
+### Schedule
+--------- | ------------
+9:00	|	Welcome and Overview Research Data Management
+ 	|	PD Dr. Erich Weichselgartner (ZPID)
+10:30 	|		— Coffee Break —
+10:45	|		Working with DataWiz
+ 	|	PD Dr. Erich Weichselgartner (ZPID)
+12:30	|		— Lunch Break —
+13:30	|		Introduction REDCap
+ 	|	Dr. Annett Wilde (DIPF)
+14:30	|		Introduction Brain Data Imaging Structure (BIDS)
+ 	|	Dr. Benjamin Gagl (GU)
+15:30	|		— End of Workshop—
+
+### Catering
+
+Drinks and some snacks will be provided during the coffee breaks. Lunch is at your own choice at nearby locations.
+
+### When and where?
+
+Friday, 30<sup>th</sup> November, 9:00 - 15:30, Seminarpavillon, Room SP 0.04 (Stralsunder Str. 36, <br />near Campus Westend – [Site Map](http://www.uni-frankfurt.de/38093807/Campus_Westend-pdf.pdf) &rarr; Loc. 21)
+
+### Questions or comments?
+
+Questions and comments can be sent to kohler@grade.uni-frankfurt.de
+
+### Prior registration required!
+
+<p>Please submit your registration below:</p>
+<iframe 
+src="https://docs.google.com/forms/d/e/1FAIpQLSfdhn2zH2TFGPThJEXEhwRml4CP0_tF5mXvBE-olBvYi-_LhQ/viewform?embedded=true" 
+width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
