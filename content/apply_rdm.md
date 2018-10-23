@@ -32,19 +32,41 @@ In general, no specific computer knowledge is required.
 
 ### Schedule
 
-Time	|	Session
---------- | ------------
-9:00	|	Welcome and Overview Research Data Management
- 	|	PD Dr. Erich Weichselgartner (ZPID)
-10:30 	|		— Coffee Break —
-10:45	|		Working with DataWiz
- 	|	PD Dr. Erich Weichselgartner (ZPID)
-12:30	|		— Lunch Break —
-13:30	|		Introduction REDCap
- 	|	Dr. Annett Wilde (DIPF)
-14:30	|		Introduction Brain Data Imaging Structure (BIDS)
- 	|	Dr. Benjamin Gagl (GU)
-15:30	|		— End of Workshop—
+<table>
+<tr>
+<td>9:00</td>		<td>Welcome and Overview Research Data Management</td>
+</tr>
+<tr>
+<td>	</td>	<td>PD Dr. Erich Weichselgartner (ZPID)</td>
+</tr>
+<tr>
+<td>10:30</td> 			<td>— Coffee Break —</td>
+</tr>
+<tr>
+<td>10:45</td>			<td>Working with DataWiz</td>
+</tr>
+<tr>
+<td>	</td>	<td>PD Dr. Erich Weichselgartner (ZPID)</td>
+</tr>
+<tr>
+<td>12:30</td>			<td>— Lunch Break —</td>
+</tr>
+<tr>
+<td>13:30</td>			<td>Introduction REDCap</td>
+</tr>
+<tr>
+<td>	</td>	<td>Dr. Annett Wilde (DIPF)</td>
+</tr>
+<tr>
+<td>14:30</td>			<td>Introduction Brain Data Imaging Structure (BIDS)</td>
+</tr>
+<tr>
+<td>	</td>	<td>Dr. Benjamin Gagl (GU)</td>
+</tr>
+<tr>
+<td>15:30</td>			<td>— End of Workshop—</td>
+</tr>
+</table>
 
 ### Catering
 
