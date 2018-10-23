@@ -31,6 +31,8 @@ At the end of the workshop, participants will have in-depth knowledge of open-sc
 In general, no specific computer knowledge is required.
 
 ### Schedule
+
+Time	|	Session
 --------- | ------------
 9:00	|	Welcome and Overview Research Data Management
  	|	PD Dr. Erich Weichselgartner (ZPID)
